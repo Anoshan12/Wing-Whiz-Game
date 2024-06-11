@@ -15,5 +15,4 @@ flappy-bird-game/
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Anoshan12/Wing-Whiz-Game.git
+   github.com/Anoshan12/Wing-Whiz-Game.git
